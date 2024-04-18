@@ -11,10 +11,6 @@ Original file is located at
 ### Import Libraries & Create Visualize Function
 """
 
-pip install matplotlib-venn
-pip install dabl
-pip install mplcursors
-
 # Commented out IPython magic to ensure Python compatibility.
 import pandas as pd
 import matplotlib.pyplot as plt
